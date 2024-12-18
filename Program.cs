@@ -11,13 +11,10 @@ namespace delete2
         static void Main(string[] args)
         {
             Console.WriteLine("음 된건가?");
-            Console.WriteLine("음 된건가?");
-            Console.WriteLine("음 된건가?");
-            Console.WriteLine("음 된건가?");
-            Console.WriteLine("음 된건가?");
-            Console.WriteLine("음 된건가?");
-            Console.WriteLine("음 된건가?");
-            Console.WriteLine("음 된건가?");
+            Console.WriteLine("가지 추가함 무슨가지일까");
+            Console.WriteLine("가지 추가함 무슨가지일까");
+
+
         }
     }
 }
