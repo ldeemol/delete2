@@ -14,6 +14,10 @@ namespace delete2
             Console.WriteLine("음 된건가?");
             Console.WriteLine("음 된건가?");
             Console.WriteLine("음 된건가?");
+            Console.WriteLine("음 된건가?");
+            Console.WriteLine("음 된건가?");
+            Console.WriteLine("음 된건가?");
+            Console.WriteLine("음 된건가?");
         }
     }
 }
